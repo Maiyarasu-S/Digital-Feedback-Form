@@ -5,7 +5,7 @@ CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/b
 
 --
 
-[![Landing Page Screenshot](Screenshot-4.png)](https://maiyarasu-s.github.io/Expense-Tracker/)
+[![Landing Page Screenshot](screenshot-4.png)](https://maiyarasu-s.github.io/Expense-Tracker/)
 
 ---
 
