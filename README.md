@@ -24,4 +24,4 @@ CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/b
 
 - **HTML5** – for structure  
 - **CSS3** – for styling and responsiveness  
-- **JavaScript (Vanilla JS)** – for form handling and data storage  
+- **JavaScript** – for form handling and data storage  
