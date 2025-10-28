@@ -3,6 +3,7 @@ A modern, responsive digital feedback form, Users can submit their name, email, 
 
 CLICK THIS LINK 🔗 ➤➤➤➤ [![View Landing Page](https://img.shields.io/badge/View-Projects-blue)](https://maiyarasu-s.github.io/Digital-Feedback-Form/)
 
+---
 
 [![Landing Page Screenshot](screenshot-5.png)](https://maiyarasu-s.github.io/Digital-Feedback-Form/)
 
